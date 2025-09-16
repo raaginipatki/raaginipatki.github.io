@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Raagini Patki"
   avatar : "/assets/images/profile_photo.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Ph.D. candidate in Astronomy at Cornell University"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -87,13 +87,6 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
-nav:
-  - title: "Research"
-    url: /research/
-  - title: "CV"
-    url: /CV/
-  - title: "Teaching"
-    url: /teaching/
 
 
 defaults:
