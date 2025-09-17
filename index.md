@@ -5,10 +5,11 @@ author_profile: true
 layout: single
 ---
 
-I am a final-year Ph.D. candidate working on observational cosmology and advised by [Prof. Nick Battaglia](https://astro.cornell.edu/nicholas-battaglia). 
+I am a final-year Ph.D. candidate working on observational cosmology and advised by [Prof. Nick Battaglia](https://astro.cornell.edu/nicholas-battaglia) in the Department of Astronomy at Cornell University. 
 
-A major focus of my Ph.D. is developing new statistical estimators and improving methods for extracting the kinematic Sunyaev-Zel’dovich (kSZ) effect from high-resolution data of the Cosmic Microwave Background (CMB). Over the past decade or so, the kSZ effect has emerged as a powerful observational tool for inferring the distribution of baryons and the large-scale velocity field. By pairing current/upcoming CMB maps with various large-scale structure (LSS) surveys.
+A major focus of my Ph.D. is developing new statistical estimators and improving methods for extracting the kinematic Sunyaev-Zel’dovich (kSZ) effect from high-resolution data of the Cosmic Microwave Background (CMB). By combining current/upcoming CMB maps with various large-scale structure surveys, kSZ measurements can help advance our understanding of long-standing questions, such as the nature of dark energy and modified gravity, the masses of neutrinos, and the distribution of baryons. Broadly, I am interested in probing fundamental physics beyond the Standard Model using various cosmological observables extracted from state-of-the-art data.  Another theme that interests me is leveraging observations to gain insights into astrophysical uncertainties that limit our ability to infer cosmological information. I am fortunate to be a member of the Simons Observatory collaboration. 
 
+Prior to starting my Ph.D. at Cornell at the end of 2020, I completed my BS-MS dual degree from IISER Pune (India), majoring in Physics and graduating at the top of my class. Outside of astrophysics, I enjoy hiking and petting friendly cats during the warmer months in Ithaca, and cooking, singing, and solving puzzles in the other half of the year.  
 
 I am on the postdoc job market this year. You can learn more about my [research](/research/), and if you would like to discuss more about it, please feel free to shoot me an [email](mailto:rp585@cornell.edu).
 
