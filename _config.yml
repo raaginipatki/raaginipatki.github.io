@@ -57,35 +57,40 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
 author:
   name   : "Raagini Patki"
   avatar : "/assets/images/profile_photo.jpeg"
   bio    : "Ph.D. candidate in Astronomy at Cornell University"
   links:
-    - label: "Website"
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      url: "https://raaginipatki.github.io"
+      url: "https://scholar.google.com/citations?user=fdNcgbAAAAAJ&hl=en&oi=ao"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
-    # - label: "GitHub"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/raaginipatki"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  # links:
+  #   - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://twitter.com/"
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/"
+  #   - label: "Instagram"
+  #     icon: "fab fa-fw fa-instagram"
+  #     url: "https://instagram.com/"
 
 
 

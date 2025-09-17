@@ -1,4 +1,35 @@
 ---
+permalink: /
+title: ""
+author_profile: true
+read_time: false
+comments: false
+share: false
+related: false
+---
+
+I am a final-year Ph.D. candidate working on observational cosmology and advised by [Prof. Nick Battaglia](https://astro.cornell.edu/nicholas-battaglia). 
+
+A major focus of my Ph.D. is developing new statistical estimators and improving methods for extracting the kinematic Sunyaev-Zel’dovich (kSZ) effect from high-resolution data of the Cosmic Microwave Background (CMB). Over the past decade or so, the kSZ effect has emerged as a powerful observational tool for inferring the distribution of baryons and the large-scale velocity field. By pairing current/upcoming CMB maps with various large-scale structure (LSS) surveys.
+
+
+I am on the postdoc job market this year. You can learn more about my [research](/research/), and if you would like to discuss more about it, please feel free to shoot me an [email](mailto:rp585@cornell.edu).
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- old code -->
+
+<!-- ---
 layout: splash
 title: "Hi, I'm Your Name"
 permalink: /
@@ -40,3 +71,4 @@ intro:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+ -->
