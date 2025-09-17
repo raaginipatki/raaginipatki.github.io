@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 author_profile: true
+layout: single
 ---
 
 I am a final-year Ph.D. candidate working on observational cosmology and advised by [Prof. Nick Battaglia](https://astro.cornell.edu/nicholas-battaglia). 
